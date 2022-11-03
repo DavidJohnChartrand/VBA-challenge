@@ -1,0 +1,3 @@
+Multiple_year_stock_data[[:space:]]VBA[[:space:]]Homework.xlsm.psd filter=lfs diff=lfs merge=lfs -text
+*.xlsm filter=lfs diff=lfs merge=lfs -text
+Multiple_year_stock_data[[:space:]]VBA[[:space:]]Homework.xlsm filter=lfs diff=lfs merge=lfs -text
