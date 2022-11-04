@@ -1,5 +1,5 @@
 # VBA-challenge
-Created a VBA Script that creates a summary of the data provided from a stocks
+Created a VBA Script that creates a summary of the data provided from stocks
 
 ## Tasks
 The tasks given in this assignment where as follows:
