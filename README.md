@@ -6,6 +6,7 @@ The tasks given in this assignment where as follows:
   Create new columns with the Ticker symbols, Yearly Change, Percentage Change and Total Stock Volume
   Conditional fomaling was applied to the Yearly Change columns for quick acessment of each stock.
 
+## Bonus
 As a Bonus I created the greatest%Increase, greatest%Decrease, & Greatest Total Volume sections
 Aswell as insured that the VBA script would run through the entire workbook.
 
