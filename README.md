@@ -1,7 +1,7 @@
 # VBA-challenge
 Created a VBA Script that creates a summary of the data provided from a stocks
 
-##Tasks
+#Tasks
 The tasks given in this assignment where as follows:
   Create new columns with the Ticker symbols, Yearly Change, Percentage Change and Total Stock Volume
   Conditional fomaling was applied to the Yearly Change columns for quick acessment of each stock.
